@@ -1,3 +1,5 @@
+//Multiple Inheritance
+
 #include<iostream>
 using namespace std;
 
@@ -79,3 +81,4 @@ int main()
 	
 	e.display_Employee_Details();
 }
+
