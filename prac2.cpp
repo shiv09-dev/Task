@@ -1,3 +1,4 @@
+//Hierarchical Inheritance
 #include<iostream>
 using namespace std;
 
@@ -92,3 +93,4 @@ int main()
 	l.display_loan_info();
 	d.display();
 }
+
