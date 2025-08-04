@@ -1,3 +1,4 @@
+//Assignment Inheritance 6_3
 #include<iostream>
 using namespace std;
 
@@ -64,3 +65,4 @@ int main()
 	Teacher t;
 	t.display();
 }
+
