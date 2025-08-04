@@ -1,3 +1,4 @@
+//Single Inheritance
 #include<iostream>
 using namespace std;
 
@@ -74,3 +75,4 @@ int main()
 	
 	r.displayResult();
 }
+
